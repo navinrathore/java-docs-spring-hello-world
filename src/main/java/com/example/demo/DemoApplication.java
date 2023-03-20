@@ -15,6 +15,6 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	String sayHello() {
-		return "Hello World! for additional Slot";
+		return "Hello World! for test Slot after disconectiong first one";
 	}
 }
